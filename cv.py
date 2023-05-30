@@ -14,16 +14,20 @@ profile_pic = current_dir / "utils" / "profile-pic.png"
 
 
 # --- GENERAL SETTINGS ---
-PAGE_TITLE = "Currículum | Jonathan Ramírez"
+PAGE_TITLE = "Currículum | Pedro Axel Méndez López"
 PAGE_ICON = ":wave:"
-NAME = "Jonathan Ramírez"
+NAME = "Pedro Axel Méndez López"
 DESCRIPTION = """
+Soy un estudiante de actuaría en su último semestre. Con conocimientos estadisticos avanzados, así como el dominio intermedio en diversos lenguajes de programación,
+teniendo un solido conocimiento matemático en modelos de Machine Learning puedo realizar interpretación el análisis de datos con la finalidad de optimizar la toma de decisiones,
+así como ajustar modelos y optimizarlos 
+además tengo un amplio conocimiento en 
 Soy un científico de datos capaz de garantizar elevados niveles de satisfacción del cliente. Con experiencia en desarrollo e implementación de código a tráves de diversos lenguajes de
 programación con el fin de ofrecer soluciones eficaces para la toma de decisiones, un sólido conocimiento matemático en modelos de Machine Learning supervisados, no supervisados,
 semisupervisados, Deep Learning, Series de Tiempo, Análisis Multivariado e Investigación de Operaciones.
 Capaz de colaborar con los compañeros de trabajo para proporcionar excelentes resultados.
 """
-EMAIL = "natael@ciencias.unam.mx"
+EMAIL = "axelmendezlopez@ciencias.unam.mx"
 SOCIAL_MEDIA = {
     "LinkedIn": "https://www.linkedin.com/in/jonathan-ramirez-montes-8251a8220/",
     "GitHub": "https://github.com/NataelM",
@@ -94,7 +98,7 @@ st.write('\n')
 st.subheader("Hard Skills")
 st.write(
     """
-- 👩‍💻 Software: Python, SPARK, SQL, R, Git/Git-Hub, Databricks, Office
+- 👩‍💻 Software: Python, SQL, R, Git/Git-Hub, Office
 - 📚 Conocimiento: - Machine lerning:
                         - Supervisado
                         - No supervisado
